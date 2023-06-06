@@ -64,3 +64,8 @@ in regards to additions.
 Perhaps you want to see exactly whats [in the list](https://loadorderlibrary.com/lists/empyrean-1)?
 
 # [What is Empyrean?](https://github.com/AlabastTheSane/empyrean-modlist/blob/main/What%20is%20Empyrean%3F.md)
+
+# Thank You
+First off, a massive thank you to ForgottenGlory for the SSEE Modlist which Empyrean was built on, and the rest of the FGModlist team, who were phenomenally helpful behind the scenes.
+Also a massive thank you to Halgari and the rest of the Wabbajack Team, for giving us this amazing tool, allowing us to experience others visions of Skyrim
+Finally, the *biggest* thanks to you, the player, for being willing to give this modlist a chance. 

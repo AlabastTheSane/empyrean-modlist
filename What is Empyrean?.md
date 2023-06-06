@@ -23,7 +23,7 @@
   
 # Power Fantasy
   This is a **VERY** broad term, and needed its own category. Empyrean aims to take the player from feeble commoner to outright God, giving you the tools and equipment needed to become the Dragonborn of Legend. Enai Siaion's full suite of mods is included to contribute to this power fantasy, providing unique
-  racial bonuses, standing stone abilities, vampire, and werewolf overhauls. Reliquary of Myth governs the Artifacts, both Daedric and Aedric, and Legacy fo the Dragonborn provides even more artifacts for you to discover and utilize.
+  racial bonuses, standing stone abilities, vampire, and werewolf overhauls. Reliquary of Myth governs the Artifacts, both Daedric and Aedric, and Legacy of the Dragonborn provides even more artifacts for you to discover and utilize.
   
 # Final Notes
   My goal with Empyrean is to provide a challenging and rewarding experience with a focus on the main quest, and the player becoming the Dragonborn of Legend. 

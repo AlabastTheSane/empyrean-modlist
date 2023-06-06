@@ -31,7 +31,7 @@ setting to -154. I hope to have this ironed out in a future update, but TrueHUD 
 These mods are going to be the ones that effect HOW the game is played.
 
 [SunHelm: Survival and Needs](https://www.nexusmods.com/skyrimspecialedition/mods/39414)
-  Pretty self-explantory, this adds Survival elements to the game. Now you have to eat, drink, and keep warm against the hard cold of Skyrim. On top of that, to level up, you will have to find a bed to sleep in. This can be accomplished by either renting a room at an inn, or utilizing a bedroll from
+  Pretty self-explantory, this adds Survival elements to the game. Now you have to eat, drink, and keep warm against the harsh cold of Skyrim. On top of that, to level up, you will have to find a bed to sleep in. This can be accomplished by either renting a room at an inn, or utilizing a bedroll from
   [Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/667).
   
 [Follow on your Knees for WIntersun](https://www.nexusmods.com/skyrimspecialedition/mods/33754)

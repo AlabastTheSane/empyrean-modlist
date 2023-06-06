@@ -28,4 +28,4 @@
 # Final Notes
   My goal with Empyrean is to provide a challenging and rewarding experience with a focus on the main quest, and the player becoming the Dragonborn of Legend. 
   
- **Alduins coming was prophesied in the Elder Scrolls, will you rise to the challenge and embrace your destiny Dovahkiin? Or will you crumble and fail, allowing the world to fall into darkness. The chocie is yours.**
+ **Alduins coming was prophesied in the Elder Scrolls, will you rise to the challenge and embrace your destiny Dovahkiin? Or will you crumble and fail, allowing the world to fall into darkness. The choice is yours.**

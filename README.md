@@ -51,6 +51,8 @@ EnaiSiaion's entire suite. This list includes [Growl](https://www.nexusmods.com/
 
 Spells - There are oodles, canoodles, and **toaster strudels** to choose from. From [Apocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/1090), to [Triumvirate](https://www.nexusmods.com/skyrimspecialedition/mods/39170), to [Darenii's full suite of spells](https://www.nexusmods.com/skyrimspecialedition/users/5073294?tab=user+files). Packed with wonderful idle and combat animations, as well as Strange Runes for the super fancy casting!
 
+Meditate with Paarthurnax - Paarthurnax is a Dragon as old as Alduin, but you can only meditate on three words of power. With [Rotmulaag](https://www.nexusmods.com/skyrimspecialedition/mods/3854), you can now meditate on all of the shouts available, providing unique bonuses when those shouts are used.
+
 # Final Notes
 
 Currently, Empyrean is in a beta state. This means there may be bugs. My plan is to get the feedback I need to filter out the bugs, and have them fixed, and a streamlined list available.

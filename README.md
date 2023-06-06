@@ -67,5 +67,7 @@ Perhaps you want to see exactly whats [in the list](https://loadorderlibrary.com
 
 # Thank You
 First off, a massive thank you to ForgottenGlory for the SSEE Modlist which Empyrean was built on, and the rest of the FGModlist team, who were phenomenally helpful behind the scenes.
+
 Also a massive thank you to Halgari and the rest of the Wabbajack Team, for giving us this amazing tool, allowing us to experience others visions of Skyrim
+
 Finally, the *biggest* thanks to you, the player, for being willing to give this modlist a chance. 

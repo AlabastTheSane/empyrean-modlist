@@ -8,7 +8,7 @@
 First things first, if you are using a 21x9 monitor, you will need to enable the Ultrawide Patches under Ultrawide Options (makes sense right?), otherwise the entire display will be off, and no one will have a good time. After you've done that, navigate to the drop down menu, and select ENB Organizer
 if you want to change from the default ENB (Rudy in Pi-Cho is enabled by default).
 
-After chosing your ENB of choice, make sure you sync the changes, and close ENB Organizer. In that same dropdown menu, select Empyrean, and than hit Run. First time load may take a little bit depending on your hardware (for reference, I have a 3060 12GB, an R7 3700x, and 32GB of DDR4 RAM, 
+After chosing your ENB of choice, close ENB Organizer. In that same dropdown menu, select Empyrean, and than hit Run. First time load may take a little bit depending on your hardware (for reference, I have a 3060 12GB, an R7 3700x, and 32GB of DDR4 RAM, 
 and it takes about 30 seconds to a minute to get to the main menu.)
 
 Once you've reached the Main Menu, feel free to enjoy the ambience for a moment, and than hit New Game. You're off on an adventure!!!
@@ -22,7 +22,7 @@ Once all the text is gone, navigate tot he MCM Recorder MCM, and select Empyrean
 The MCM Recording shouldn't take too long to run, and will give you a notification when it is running. We will get to Important Mods to Pay Attention To in the next section, but once the MCM Recorder says its complete, you're done. 
 
 As a side note, if your Health, Stamina, and Magicka bars are hagning off your screen, or are too far in the center, you will need to manually adjust them in the TrueHUD MCM, under Player Widget. FOr 16x9 (Non ultrawide users), set the Player Widget Anchor X to Zero. For 21x9 Users, set the same
-setting to -154. I hope to have this ironed out in a future update, but TrueHUD doesn;t like to maintain changes, and I play on a 21x9 screen.
+setting to -154. I hope to have this ironed out in a future update, but TrueHUD doesn't like to maintain changes, and I play on a 21x9 screen.
 
 # IMPORTANT MODS TO PAY ATTENTION TO!!!!!!!
 
@@ -47,7 +47,10 @@ The list of enemy mods is too long to put here, but your enemies are smarter, mo
 [Sneak Tools](https://www.nexusmods.com/skyrimspecialedition/mods/1863)
   Sneak Tools is an alteration to the stealth system. It has many features, too many to list, so if you're intending on a Thief or Assassin style playthrough, you should give the mod a read over.
   
-There are many other changes to Vanilla Skyrim, these were the ones I felt needed to be pointed out directly, hopefully you enjoy discovering just how far from Vanilla Empyrean diverges.
+EnaiSiaion's entire suite. This list includes [Growl](https://www.nexusmods.com/skyrimspecialedition/mods/31245), [Sacrosanct](https://www.nexusmods.com/skyrimspecialedition/mods/3928),[Imperious](https://www.nexusmods.com/skyrimspecialedition/mods/1315), [Ordinator](https://www.nexusmods.com/skyrimspecialedition/mods/1137), [Andromeda](https://www.nexusmods.com/skyrimspecialedition/mods/14910), [Summermyst](https://www.nexusmods.com/skyrimspecialedition/mods/6285), and [Thunderchild](https://www.nexusmods.com/skyrimspecialedition/mods/1460)
+
+Spells
+  There are oodles, canoodles, and **toaster strudels** to choose from. From Apocalypse, to Triumvirate, to Darenii's full suite of spells. Packed with wonderful idle and combat animations, as well as Strange Runes for the super fancy casting!
 
 # Final Notes
 

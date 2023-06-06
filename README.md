@@ -56,3 +56,5 @@ Spells - There are oodles, canoodles, and **toaster strudels** to choose from. F
 Currently, Empyrean is in a beta state. This means there may be bugs. My plan is to get the feedback I need to filter out the bugs, and have them fixed, and a streamlined list available.
 Please do not add any mods to the list while it is in Beta, as I cannot verify that an issue stems from the base load order, or a mod you may have added. While I will never provide **OFFICIAL** support for a modified install after the list leaves Beta, I would like to see what you all come up with, 
 in regards to additions. 
+
+# [What is Empyrean?](https://github.com/AlabastTheSane/empyrean-modlist/blob/main/What%20is%20Empyrean%3F.md)

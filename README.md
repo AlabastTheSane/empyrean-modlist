@@ -49,7 +49,7 @@ The list of enemy mods is too long to put here, but your enemies are smarter, mo
   
 EnaiSiaion's entire suite. This list includes [Growl](https://www.nexusmods.com/skyrimspecialedition/mods/31245), [Sacrosanct](https://www.nexusmods.com/skyrimspecialedition/mods/3928),[Imperious](https://www.nexusmods.com/skyrimspecialedition/mods/1315), [Ordinator](https://www.nexusmods.com/skyrimspecialedition/mods/1137), [Andromeda](https://www.nexusmods.com/skyrimspecialedition/mods/14910), [Summermyst](https://www.nexusmods.com/skyrimspecialedition/mods/6285), and [Thunderchild](https://www.nexusmods.com/skyrimspecialedition/mods/1460)
 
-Spells - There are oodles, canoodles, and **toaster strudels** to choose from. From Apocalypse, to Triumvirate, to Darenii's full suite of spells. Packed with wonderful idle and combat animations, as well as Strange Runes for the super fancy casting!
+Spells - There are oodles, canoodles, and **toaster strudels** to choose from. From [Apocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/1090), to [Triumvirate](https://www.nexusmods.com/skyrimspecialedition/mods/39170), to [Darenii's full suite of spells](https://www.nexusmods.com/skyrimspecialedition/users/5073294?tab=user+files). Packed with wonderful idle and combat animations, as well as Strange Runes for the super fancy casting!
 
 # Final Notes
 

@@ -21,18 +21,15 @@ Most of the MCMs are already set up for you via MCM Recorder. When you load into
 so take your time, and read through what each God does. Fear not though, if you wish to worship the Overlord Supreme of Cheese, Sheogorath, that's possible. After you've selected which deity you want to worship, wait for all the text to stop scrolling in the left hand corner of your screen.
 Once all the text is gone, navigate to the MCM Recorder MCM, and select Empyrean Final Cut. 
 
-The MCM Recording shouldn't take too long to run, and will give you a notification when it is done running. We will get to Important Mods to Pay Attention To in the next section, but once the MCM Recorder says its complete, you're done. 
+The MCM Recording shouldn't take too long to run, and will give you a notification when it is done running. We will get to Important Mods to Pay Attention To in the next section, but once the MCM Recorder says its complete, you have one final step. If you are playing on an Ultrawide monitor (21x9), you need to go intot he Frostfall MCM and select the Empyrean Ultrawide Profile, followed by Profile 2 in Last Seed, as this will ensure your meters are aligned correctly with your screen. After that, you're all done! 
 
-As a side note, if your Health, Stamina, and Magicka bars are hanging off your screen, or are too far in the center, you will need to manually adjust them in the TrueHUD MCM, under Player Widget. For 16x9 (Non ultrawide users), set the Player Widget Anchor X to Zero. For 21x9 Users, set the same
-setting to -154. I hope to have this ironed out in a future update, but TrueHUD doesn't like to maintain changes, and I play on a 21x9 screen.
 
 # IMPORTANT MODS TO PAY ATTENTION TO!!!!!!!
 
 These mods are going to be the ones that effect HOW the game is played.
 
-[SunHelm: Survival and Needs](https://www.nexusmods.com/skyrimspecialedition/mods/39414)
-  Pretty self-explantory, this adds Survival elements to the game. Now you have to eat, drink, and keep warm against the harsh cold of Skyrim. On top of that, to level up, you will have to find a bed to sleep in. This can be accomplished by either renting a room at an inn, or utilizing a bedroll from
-  [Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/667).
+[Last Seed](https://www.nexusmods.com/skyrimspecialedition/mods/56393) [Dirt and Blood](https://www.nexusmods.com/skyrimspecialedition/mods/38886)
+  Pretty self-explantory, this adds Survival elements to the game. Now you have to eat, drink, and keep warm against the harsh cold of Skyrim, as well as keeping yourself clean. On top of that, to level up, you will have to find a bed to sleep in. This can be accomplished by either renting a room at an inn, or utilizing a bedroll from [Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/667).
   
 [Follow on your Knees for WIntersun](https://www.nexusmods.com/skyrimspecialedition/mods/33754)
   This one is **SUPER** important, because it will allow you to recieve a blessing at any shrine without being prompted if you want to follow that god. 

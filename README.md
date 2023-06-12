@@ -60,7 +60,7 @@ Currently, Empyrean is in a beta state. This means there may be bugs. My plan is
 Please do not add any mods to the list while it is in Beta, as I cannot verify that an issue stems from the base load order, or a mod you may have added. While I will never provide **OFFICIAL** support for a modified install after the list leaves Beta, I would like to see what you all come up with, 
 in regards to additions. 
 
-Perhaps you want to see exactly whats [in the list](https://loadorderlibrary.com/lists/empyrean-1)?
+Perhaps you want to see exactly whats [in the list](https://loadorderlibrary.com/lists/empyrean)?
 
 # [What is Empyrean?](https://github.com/AlabastTheSane/empyrean-modlist/blob/main/What%20is%20Empyrean%3F.md)
 

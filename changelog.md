@@ -1,7 +1,20 @@
 # Changelog
 
-### 0.1.0-Beta 06/06/2023
-#### Initial Release
+### 0.3.0-Beta (Release Candidate 1) 06/19/2023
+#### Release Candidate 1
+__Additions__
+- Mandragorasprouts Daedric Shrines (with LotD and Wintersun patches)
+- Skyrim Reputation (patched and fixed)
+- Inventory tweaks (B.O.O.B.I.E.S and Friends)
+- Follow Me and Swim after Me
+- Nordic UI reskin for Frostfall
+- Zim's Thane Weapons
+- Immersive Armors with retexture, fixes, and 3BA support
+- Become a Bard!!! Play to your hearts content (And earn a free room!)
+
+__Fixes__
+- Kaidan's feet no longer suffer from poor mesh textures
+- Daegon no longer clips through her clothes
 
 ### 0.2.0-Beta 06/11/2023
 #### Bugfix and Change update
@@ -28,17 +41,5 @@ __Fixes__
 - TrueHUD not cooperating switching from 16x9 to 21x9 (Enabled under Ultrawide Options)
 - Tons of back end patching
 
-### 0.3.0-Beta (Release Candidate 1) 06/19/2023
-#### Release Candidate 1
-__Additions__
-- Mandragorasprouts Daedric Shrines (with LotD and Wintersun patches)
-- Skyrim Reputation (patched and fixed)
-- Inventory tweaks (B.O.O.B.I.E.S and Friends)
-- Follow Me and Swim after Me
-- Nordic UI reskin for Frostfall
-- Zim's Thane Weapons
-- Immersive Armors with retexture, fixes, and 3BA support
-
-__Fixes__
-- Kaidan's feet no longer suffer from poor mesh textures
-- Daegon no longer clips through her clothes
+### 0.1.0-Beta 06/06/2023
+#### Initial Release

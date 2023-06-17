@@ -1,5 +1,7 @@
 # **SURVIVAL BREAKDOWN**
 
+![Skyrim Special Edition 6_17_2023 1_51_13 PM](https://github.com/AlabastTheSane/empyrean-modlist/assets/121777012/33cd7af8-8bd0-4da2-a298-1b4497ca8b02)
+Your Vitality meter will fill from left to right, indicating a higher level of well-being. Your warmth meter will fill from right to left, indicating that you are getting colder. Your Hunger, Thirst, and Rest meters will fill from the center out, and the lower they get, the hungrier/thirstier/more tired you are.
 
 # Warmth & Coverage
  - Skyrim is a cold, unforgiving tundra in most places. In others, its filled with rainstorms. You need to keep yourself both dry, and warm, if you want to survive to fufill your destiny. Different armors will provide different warmth and coverage ratings. You can see those values on the item card in your inventory. 

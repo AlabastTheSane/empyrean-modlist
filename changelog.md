@@ -11,10 +11,16 @@ __Additions__
 - Zim's Thane Weapons
 - Immersive Armors with retexture, fixes, and 3BA support
 - Become a Bard!!! Play to your hearts content (And earn a free room!)
+- KrittaKitty Horses fixing some of the maneless horses found throught Skyrim
+- Mannequin Management (hopefully fixes the wandering mannequin problem ocne and for all)
+- Powers Keyring
+- New hair selections
 
 __Fixes__
 - Kaidan's feet no longer suffer from poor mesh textures
 - Daegon no longer clips through her clothes
+- Fixed clipping bookcases in the Arcaneum
+- Fixed some objects blocking the entrance to Scriveners Croft
 
 ### 0.2.0-Beta 06/11/2023
 #### Bugfix and Change update

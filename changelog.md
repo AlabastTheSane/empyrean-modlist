@@ -1,6 +1,6 @@
 # Changelog
 
-### 0.3.0-Beta (Release Candidate 1) 06/19/2023
+### 0.3.0-Beta (Release Candidate 1) 06/18/2023
 #### Release Candidate 1
 __Additions__
 - Mandragorasprouts Daedric Shrines (with LotD and Wintersun patches)

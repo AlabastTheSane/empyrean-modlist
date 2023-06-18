@@ -4,7 +4,6 @@
 #### Release Candidate 1
 __Additions__
 - Mandragorasprouts Daedric Shrines (with LotD and Wintersun patches)
-- Skyrim Reputation (patched and fixed)
 - Inventory tweaks (B.O.O.B.I.E.S and Friends)
 - Follow Me and Swim after Me
 - Nordic UI reskin for Frostfall

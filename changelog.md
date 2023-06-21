@@ -1,5 +1,25 @@
 # Changelog
 
+### 0.4.0-Beta (Release Candidate 2) 06/23/2023
+#### Release Candidate 2
+__Additions__
+- Missiles IED Presets (With a config already set for use)
+- Carry Your Carcasses(Horse)
+- Leadership
+- Nethers Follower Framework
+- Followers Sleep Too
+- Sleep for me
+- Skills of the Wild as an Optional Enable
+- Rudy-Zangdar's Edit ENB
+- Wards Funcitonality Extended (Because thats apparently not a vanilla feature)
+- Igniting animations for Campfire
+
+__Fixes__
+- Ultrawide options are not enabled by default
+- ENB Letterboxing fixed (hopefully it sticks this time)
+- Default ENB Reset to Rudy
+- Backend patches and Load order fixes
+
 ### 0.3.0-Beta (Release Candidate 1) 06/18/2023
 #### Release Candidate 1
 __Additions__

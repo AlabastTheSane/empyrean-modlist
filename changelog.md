@@ -9,7 +9,7 @@ __Additions__
 - Nethers Follower Framework
 - Followers Sleep Too
 - Sleep for me
-- Skills of the Wild as an Optional Enable
+- Skills of the Wild (See [Survival Breakdown](https://github.com/AlabastTheSane/empyrean-modlist/blob/main/Survival%20Breakdown.md) )
 - Rudy-Zangdar's Edit ENB
 - Wards Funcitonality Extended (Because thats apparently not a vanilla feature)
 - Igniting animations for Campfire

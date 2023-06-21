@@ -20,6 +20,9 @@ __Fixes__
 - Default ENB Reset to Rudy
 - Backend patches and Load order fixes
 
+__Removed__
+- AYOP College (Was conflicting with the college overhaul, and JaySerpas Quest expansion is enough imo)
+
 ### 0.3.0-Beta (Release Candidate 1) 06/18/2023
 #### Release Candidate 1
 __Additions__

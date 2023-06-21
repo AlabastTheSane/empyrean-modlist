@@ -13,6 +13,7 @@ __Additions__
 - Rudy-Zangdar's Edit ENB
 - Wards Funcitonality Extended (Because thats apparently not a vanilla feature)
 - Igniting animations for Campfire
+- Astronmers Loft as a chepaer Whiterun Alternative Housing Solution
 
 __Fixes__
 - Ultrawide options are not enabled by default

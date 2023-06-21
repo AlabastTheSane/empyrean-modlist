@@ -21,7 +21,9 @@ Most of the MCMs are already set up for you via MCM Recorder. When you load into
 so take your time, and read through what each God does. Fear not though, if you wish to worship the Overlord Supreme of Cheese, Sheogorath, that's possible. After you've selected which deity you want to worship, wait for all the text to stop scrolling in the left hand corner of your screen.
 Once all the text is gone, navigate to the MCM Recorder MCM, and select Empyrean Final Cut. 
 
-The MCM Recording shouldn't take too long to run, and will give you a notification when it is done running. We will get to Important Mods to Pay Attention To in the next section, but once the MCM Recorder says its complete, you have one final step. If you are playing on an Ultrawide monitor (21x9), you need to go intot he Frostfall MCM and select the Empyrean Ultrawide Profile, followed by Profile 2 in Last Seed, as this will ensure your meters are aligned correctly with your screen. After that, you're all done! 
+The MCM Recording shouldn't take too long to run, and will give you a notification when it is done running. We will get to Important Mods to Pay Attention To in the next section, but once the MCM Recorder says its complete, you have one final step. If you are playing on an Ultrawide monitor (21x9), you need to go intot he Frostfall MCM and select the Empyrean Ultrawide Profile, followed by Profile 2 in Last Seed, as this will ensure your meters are aligned correctly with your screen. 
+
+MCM Recorder does not enjoy setting up some Keybinds, so a few mods will need to be manually set. iHUD can be set to RAlt; and Take Notes can be set to B. After that, you're all done! 
 
 
 # IMPORTANT MODS TO PAY ATTENTION TO!!!!!!!

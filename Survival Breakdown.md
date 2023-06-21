@@ -3,6 +3,12 @@
 ![Skyrim Special Edition 6_17_2023 1_51_13 PM](https://github.com/AlabastTheSane/empyrean-modlist/assets/121777012/33cd7af8-8bd0-4da2-a298-1b4497ca8b02)
 Your Vitality meter will fill from left to right, indicating a higher level of well-being. Your warmth meter will fill from right to left, indicating that you are getting colder. Your Hunger, Thirst, and Rest meters will fill from the center out, and the lower they get, the hungrier/thirstier/more tired you are.
 
+# VERY IMPORTANT
+This section is for [Skills of The Wild](https://www.nexusmods.com/skyrimspecialedition/mods/37693). This expands the campfire skill trees, and makes some changes to how campfire works. The in-depth changes are available on the mod page, but a brief breakdown is provided here
+- Default Campfire powers are now unlocked through exploring (Scrimshaw, Primative Crafting, Sense Direction, and Instincts)
+- This will ALSO change food that can be cooked, tying further into Last Seed. Starting out, you will only be able to cook charred meat, but with time (and patience), you'll be cooking meals to rival the gourmet!
+- You will be able to tame and recruit animals to fight alongside you. Starting with small animals, but eventually working your way up to larger predators, such as Bears and Sabre Cats!
+
 # Warmth & Coverage
  - Skyrim is a cold, unforgiving tundra in most places. In others, its filled with rainstorms. You need to keep yourself both dry, and warm, if you want to survive to fufill your destiny. Different armors will provide different warmth and coverage ratings. You can see those values on the item card in your inventory. 
  - Standing next to a fire will provide warmth, though if there is no shelter from the wind, the amount of warmth provided will be dimished. This can be mititgated by using large rocks, outcroppings, and tents. Snow, Rain, and Swimming will increase how wet you are. The more wet you are, the faster you get cold, so try to stay dry as much as possible. 

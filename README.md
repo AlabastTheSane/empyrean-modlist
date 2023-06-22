@@ -8,7 +8,7 @@ This list requires 176GB of storage space, with 51GB of that being downloads
 (This assumes you've used Wabbajack installers before and have all of the standard requirements, but it will be updated later to have everything needed.)
 
 First things first, if you are using a 21x9 monitor, you will need to enable the Ultrawide Patches under Ultrawide Options (makes sense right?), otherwise the entire display will be off, and no one will have a good time. After you've done that, navigate to the drop down menu, and select ENB Organizer
-if you want to change from the default ENB (Rudy in Pi-Cho is enabled by default).
+if you want to change from the default ENB (Rudy for Cathedral is enabled by default).
 
 After chosing your ENB of choice, close ENB Organizer. In that same dropdown menu, select Empyrean, and than hit Run. First time load may take a little bit depending on your hardware (for reference, I have a 3060 12GB, an R7 3700x, and 32GB of DDR4 RAM, 
 and it takes about 30 seconds to a minute to get to the main menu.)

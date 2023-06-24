@@ -1,6 +1,30 @@
 # Changelog
 
-### 0.4.0-Beta (Release Candidate 2) 06/23/2023
+## 0.5.0-Beta (Release Candidate 3) 06/26/2023
+#### Release Candidate 3
+__Replacements__
+- Valhalla > Wildcat + Vigor
+- Daegon > Cerri Steelfist
+
+__Additions__
+- Autumgate Player Home in the Rift
+- Storm Lightning
+- Tweaked the Base textures of Skyland with Noble Skyrim as a mix and match
+- Akaviri Ruins of Saiviren Chorak
+- Improved Alternate Conversation Camera
+- Bellyaches Creatures
+- Wounds (with patches for Hunterborn)
+- JaySerpas Line Expansions list
+- Taunt your Enemies
+- Remote Interactions
+- Dawn of Skyrim added on top of JKs
+
+__Fixes__
+- Took a pass over Realm of Lorkhan, there is now enough for a full set of starting gear, a campfire backpack, a hunting knife, a tent, and a cloak, on top of the armor/weapons
+- Snagged some missing Lux patches
+- Load order adjustments
+
+## 0.4.0-Beta (Release Candidate 2) 06/23/2023
 #### Release Candidate 2
 __Additions__
 - Missiles IED Presets (With a config already set for use)
@@ -24,7 +48,7 @@ __Fixes__
 __Removed__
 - AYOP College (Was conflicting with the college overhaul, and JaySerpas Quest expansion is enough imo)
 
-### 0.3.0-Beta (Release Candidate 1) 06/18/2023
+## 0.3.0-Beta (Release Candidate 1) 06/18/2023
 #### Release Candidate 1
 __Additions__
 - Mandragorasprouts Daedric Shrines (with LotD and Wintersun patches)
@@ -45,7 +69,7 @@ __Fixes__
 - Fixed clipping bookcases in the Arcaneum
 - Fixed some objects blocking the entrance to Scriveners Croft
 
-### 0.2.0-Beta 06/11/2023
+## 0.2.0-Beta 06/11/2023
 #### Bugfix and Change update
 __Replacements__
 - Sunhelm > Last Seed
@@ -70,5 +94,5 @@ __Fixes__
 - TrueHUD not cooperating switching from 16x9 to 21x9 (Enabled under Ultrawide Options)
 - Tons of back end patching
 
-### 0.1.0-Beta 06/06/2023
+## 0.1.0-Beta 06/06/2023
 #### Initial Release

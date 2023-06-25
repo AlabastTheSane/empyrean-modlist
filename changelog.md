@@ -15,8 +15,8 @@ __Additions__
 - Bellyaches Creatures
 - Wounds (with patches for Hunterborn)
 - JaySerpas Line Expansions list
-- Taunt your Enemies
-- Remote Interactions
+- [Taunt your Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/72023)
+- [Remote Interactions](https://www.nexusmods.com/skyrimspecialedition/mods/89676)
 - Dawn of Skyrim added on top of JKs
 
 __Fixes__

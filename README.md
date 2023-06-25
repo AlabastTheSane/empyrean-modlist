@@ -3,7 +3,7 @@
 
 # Getting started with Empyrean
 
-This list requires 176GB of storage space, with 51GB of that being downloads
+This list requires 178GB of storage space, with 51GB of that being downloads
 
 (This assumes you've used Wabbajack installers before and have all of the standard requirements, but it will be updated later to have everything needed.)
 

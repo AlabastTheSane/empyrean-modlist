@@ -5,7 +5,10 @@
 
 This list requires 178GB of storage space, with 51GB of that being downloads
 
-(This assumes you've used Wabbajack installers before and have all of the standard requirements, but it will be updated later to have everything needed.)
+## _The following things are needed to run Empyrean, and should be isntalled prior to installation fo the list_
+- [Skyrim Special Edition (Steam, v1.6.640)](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/)
+- [Microsoft Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe)
+- [.Net Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime)
 
 First things first, if you are using a 21x9 monitor, you will need to enable the Ultrawide Patches under Ultrawide Options (makes sense right?), otherwise the entire display will be off, and no one will have a good time. After you've done that, navigate to the drop down menu, and select ENB Organizer
 if you want to change from the default ENB (Rudy for Cathedral is enabled by default).

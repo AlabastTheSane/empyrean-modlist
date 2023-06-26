@@ -1,35 +1,39 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Empyrean",
-    "description": "Empyrean's primary focus is on the journey to becoming the Dragonborn of Legend. Survival mechanics, smarter enemies, and a plethora of cohorts to aid you in your journey. Will you wield the power of Atherius against your foes? Strike from the shadows, unseen and unheard? Or will you charge headfirst, a war cry on your lips, and battle in your heart. The choice is yours Dovahkiin, Alduin is coming.",
+    "description": "Empyrean\u0027s primary focus is on the journey to becoming the Dragonborn of Legend. Survival mechanics, smarter enemies, and a plethora of cohorts to aid you in your journey. Will you wield the power of Atherius against your foes? Strike from the shadows, unseen and unheard? Or will you charge headfirst, a war cry on your lips, and battle in your heart. The choice is yours Dovahkiin, Alduin is coming.",
     "author": "Alabast",
     "maintainers": [
       "github/AlabastTheSane"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
       "Survival",
       "EnaiRim"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
     "force_down": false,
     "links": {
       "image": "https://i.imgur.com/eTg4CfU.png",
       "readme": "https://github.com/AlabastTheSane/empyrean-modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Empyrean.wabbajack_c50e9df2-821d-4407-a00a-2145bc07fc14",
+      "download": "https://authored-files.wabbajack.org/Empyrean.wabbajack_2e4b15bf-cad4-4e8d-ae0d-264734b6ce68",
       "machineURL": "empyrean",
       "discordURL": "https://discord.gg/pUZAzEnjPC"
     },
     "download_metadata": {
-      "Hash":"2via2SB9v+E=",
-      "Size":1113443829,
-      "NumberOfArchives":844,
-      "SizeOfArchives":71774949740,
-      "NumberOfInstalledFiles":137510,
-      "SizeOfInstalledFiles":125565861029
+      "Hash": "IeqLx+jhzjo=",
+      "Size": 1113444499,
+      "NumberOfArchives": 844,
+      "SizeOfArchives": 71774949740,
+      "NumberOfInstalledFiles": 137510,
+      "SizeOfInstalledFiles": 125565861251
     },
-    "version": "1.0"
+    "version": "1.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2023-06-26T22:46:54.8252055Z",
+    "repositoryName": ""
   }
 ]

@@ -5,7 +5,7 @@
     "description": "Empyrean's primary focus is on the journey to becoming the Dragonborn of Legend. Survival mechanics, smarter enemies, and a plethora of cohorts to aid you in your journey. Will you wield the power of Atherius against your foes? Strike from the shadows, unseen and unheard? Or will you charge headfirst, a war cry on your lips, and battle in your heart. The choice is yours Dovahkiin, Alduin is coming.",
     "author": "Alabast",
     "maintainers": [
-      "github/AlabastTheSane>"
+      "github/AlabastTheSane"
     ],
     "game": "skyrimspecialedition",
     "tags": [
@@ -13,7 +13,7 @@
       "EnaiRim"
     ],
     "nsfw": false,
-    "image_contains_title": false,
+    "image_contains_title": true,
     "force_down": false,
     "links": {
       "image": "https://i.imgur.com/eTg4CfU.png",

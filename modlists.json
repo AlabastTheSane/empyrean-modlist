@@ -1,0 +1,35 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Empyrean",
+    "description": "Empyrean's primary focus is on the journey to becoming the Dragonborn of Legend. Survival mechanics, smarter enemies, and a plethora of cohorts to aid you in your journey. Will you wield the power of Atherius against your foes? Strike from the shadows, unseen and unheard? Or will you charge headfirst, a war cry on your lips, and battle in your heart. The choice is yours Dovahkiin, Alduin is coming.",
+    "author": "Alabast",
+    "maintainers": [
+      "github/AlabastTheSane>"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "Survival",
+      "EnaiRim"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "image": "https://i.imgur.com/eTg4CfU.png",
+      "readme": "https://github.com/AlabastTheSane/empyrean-modlist/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Empyrean.wabbajack_c50e9df2-821d-4407-a00a-2145bc07fc14",
+      "machineURL": "empyrean",
+      "discordURL": "https://discord.gg/pUZAzEnjPC"
+    },
+    "download_metadata": {
+      "Hash":"2via2SB9v+E=",
+      "Size":1113443829,
+      "NumberOfArchives":844,
+      "SizeOfArchives":71774949740,
+      "NumberOfInstalledFiles":137510,
+      "SizeOfInstalledFiles":125565861029
+    },
+    "version": "1.0"
+  }
+]

@@ -62,11 +62,7 @@ Meditate with Paarthurnax - Paarthurnax is a Dragon as old as Alduin, but you ca
 
 Followers - What adventure would be complete without companions to share in the triumphs and failures? [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461), everyone's favorite blue Khajiit, [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035), a nerdy Imperial Scholar who grows in power alongside you, [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278), the firey Bosmer archer, [Remiel](https://www.nexusmods.com/skyrimspecialedition/mods/51874), the quirky Dwemechanic, [Gore](https://www.nexusmods.com/skyrimspecialedition/mods/85298), a Nord warrior with a troubled past, and [Xelzaz](https://www.nexusmods.com/skyrimspecialedition/mods/62893), the Argonian Lawman for House Telvanni
 
-# Final Notes
-
-Currently, Empyrean is in a beta state. This means there may be bugs. My plan is to get the feedback I need to filter out the bugs, and have them fixed, and a streamlined list available.
-Please do not add any mods to the list while it is in Beta, as I cannot verify that an issue stems from the base load order, or a mod you may have added. While I will never provide **OFFICIAL** support for a modified install after the list leaves Beta, I would like to see what you all come up with, 
-in regards to additions. 
+# Final Notes 
 
 Perhaps you want to see exactly whats [in the list](https://loadorderlibrary.com/lists/empyrean)?
 

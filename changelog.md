@@ -1,5 +1,18 @@
 # Changelog
 
+## v1.1.1 "Stairs and Chairs Repaired"
+__Fixes__
+- Water Bottles not prompting to be cleaned
+- Wintersun Prayers not working
+- (Hopefully) fixed no damage recieved/taken
+- (Hopefully) fixed being stuck in a blocking animation
+
+__Optional Enables__
+- Improved Camera SE
+- Skills of the Wild Map Cursor patch
+- Improved Alternate Conversation Camera
+- Skyrim Souls RE
+
 ## v1.1 "Stairs and Chairs Update"
 __Additions__
 - Odin (I forgot this was a thing on initial release)

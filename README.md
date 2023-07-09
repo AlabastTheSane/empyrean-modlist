@@ -64,6 +64,10 @@ Followers - What adventure would be complete without companions to share in the 
 
 # Final Notes 
 
+KeyMap for the important keys.
+![keyboard-layout](https://github.com/AlabastTheSane/empyrean-modlist/assets/121777012/db2de8df-67b6-47f2-93bd-9adbe145f436)
+
+
 Perhaps you want to see exactly whats [in the list](https://loadorderlibrary.com/lists/empyrean)?
 
 # [What is Empyrean?](https://github.com/AlabastTheSane/empyrean-modlist/blob/main/What%20is%20Empyrean%3F.md)

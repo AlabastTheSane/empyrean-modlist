@@ -40,3 +40,6 @@ Food can now spoil. If left in your inventory, your followers inventory, or your
 
 # Follower Needs (disabled by default)
 If you want to experience the full Last Seed effect, you can turn on follower needs, which will mean that your followers will now need to eat, drink, and sleep, and will look to you, as the leader, to provide those things. If you decide to turn this feature on, your provisions weight will increase to accomodate your followers needs, and the auto eat/drink feature will encompass your followers as well.
+
+# Wounds
+In combat, you may sustain injuries, ranging from mild bruising to shattered bones. There are a number of ways to treat these injuries. The first, and longest way to treat them, is to take a break from adventuring and let the wound heal on its own. It will take some time (The MCM is set to heal broken bones in 3 in game days). Potions of Cure Injuries are available (Cure Broken Bones, Bruises, Cuts), and these can be found in the world, or purchased from Apothecary shops. The easiest way is a gold donation to a temple int eh Walled Cities (Whiterun, Solitude, Markarth, Windhelm), and a priest will be able to heal your wounds for you.

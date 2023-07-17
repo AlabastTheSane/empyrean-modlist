@@ -31,6 +31,7 @@ __Removals__
 - Kill XP
 - Use Those Horses (May return once I figure out how to stop the animal carcass duplication)
 - A few OAR animations were removed due to being redundant with MCO
+- DCo removed for now while bugs and errors are looked at
 
 ## v1.1.1 "Stairs and Chairs Repaired" 07/08/2023
 __Fixes__

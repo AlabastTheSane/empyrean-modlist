@@ -16,6 +16,7 @@ __Additions__
 - Bosmer NPCs have antlers, and Breton NPCs have Elf Ears (Don't care about your lore friendly accusations)
 - Main Menu music now cycles between three lovely Hidden Citizens tracks
 - iSnore sleeping encounters (If you're in an uncleared dungeon, possiblity of being attacked while you sleep)
+- First Easter Egg. Unsure how many more may be included at this time
 
 __Replacements__
 - Remiel Replacer

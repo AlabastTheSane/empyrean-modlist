@@ -5,6 +5,7 @@ __Fixes__
 - Fixed Magical Duplicaiton issues
 - Takiyo/Precision Crash
 - Steed Stone Visual issues
+- OCPA Arrow Drop issues
 
 __Additions__
 - Your Own Thoughts (Hooray First Person Messages!)

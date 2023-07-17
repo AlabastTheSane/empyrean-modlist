@@ -1,6 +1,6 @@
 # Changelog
 
-## v1.1.1 "Stairs and Chairs Repaired"
+## v1.1.1 "Stairs and Chairs Repaired" 07/08/2023
 __Fixes__
 - Water Bottles not prompting to be cleaned
 - Wintersun Prayers not working
@@ -13,7 +13,7 @@ __Optional Enables__
 - Improved Alternate Conversation Camera
 - Skyrim Souls RE
 
-## v1.1 "Stairs and Chairs Update"
+## v1.1 "Stairs and Chairs Update" 07/08/2023
 __Additions__
 - Odin (I forgot this was a thing on initial release)
 - Various DAR Animations (Bound Weapons, tools, drunk, and wounds)

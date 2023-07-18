@@ -1,5 +1,8 @@
 # What is Empyrean?
 
+[![Watch the video](https://img.youtube.com/vi/hNFm-XJuXx4/sddefault.jpg)](https://www.youtube.com/watch?v=hNFm-XJuXx4)
+
+
   Empyrean was born from a desire to see the world of Skyrim be both more punishing and rewarding for the player. In Vanilla, you could easily become a God by level 10, laying waste to enemies with ease, and clearing dungeons of undead without breaking a sweat. Vanilla Skyrim has also been rather bland, 
   with NPCs having the same 4 lines of dialogue, no matter how many times you talk to them. The biggest sticking point for me though, was the main quest, and how excited and let down I was by the ending. Here you are, the Prophesied Dragonborn of Legend, given the power of the Dragons blood to halt
   the end of the world at the hands of Alduin, the first born of Akatosh. In Vanilla, it was a very bland, and boring dragon fight, with a pretty backdrop. But that was it. You could feasibly complete the main quest by level 15. Empyrean aims to change that.

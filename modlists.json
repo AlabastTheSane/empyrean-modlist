@@ -20,21 +20,21 @@
     "links": {
       "image": "https://i.imgur.com/eTg4CfU.png",
       "readme": "https://github.com/AlabastTheSane/empyrean-modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Empyrean.wabbajack_705b49d6-06a6-456d-8ce2-dea7c4f15c02",
+      "download": "https://authored-files.wabbajack.org/Empyrean.wabbajack_18bdf4a0-e214-4c44-b78d-d4dc54d4d6e0",
       "machineURL": "empyrean",
       "discordURL": "https://discord.gg/pUZAzEnjPC"
     },
     "download_metadata": {
-      "Hash": "uBIalEdxEyU=",
-      "Size": 2146806356,
-      "NumberOfArchives": 1016,
-      "SizeOfArchives": 88421914075,
-      "NumberOfInstalledFiles": 329744,
-      "SizeOfInstalledFiles": 169220426379
+      "Hash": "ZrG4mbkdiNc=",
+      "Size": 2159676192,
+      "NumberOfArchives": 1017,
+      "SizeOfArchives": 88431527032,
+      "NumberOfInstalledFiles": 343779,
+      "SizeOfInstalledFiles": 169276832275
     },
     "version": "1.7",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-01-06T18:32:22.1572074Z",
+    "dateUpdated": "2024-01-17T23:38:16.6750916Z",
     "repositoryName": ""
   }
 ]

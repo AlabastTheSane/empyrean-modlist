@@ -1,5 +1,11 @@
 # Changelog
 
+## v2.0 "The Total Rebuild" 03/26/2024 (New Save Required)
+__Changes__
+- Just about eveyrthing has been reworked from the ground up. New textures, less bloat, tighter vision.
+- LOTD was removed
+- Seasons of Skyrim was removed
+
 ## v1.3 "Hotfix Soon to Follow" 07/24/2023 (New Save Required)
 __Fixes__
 - Body overlays crashing

@@ -8,7 +8,6 @@ This section is for [Skills of The Wild](https://www.nexusmods.com/skyrimspecial
 - Default Campfire powers are now unlocked through exploring (Scrimshaw, Primative Crafting, Sense Direction, and Instincts)
 - This will ALSO change food that can be cooked, tying further into Last Seed. Starting out, you will only be able to cook charred meat, but with time (and patience), you'll be cooking meals to rival the gourmet!
 - You will be able to tame and recruit animals to fight alongside you. Starting with small animals, but eventually working your way up to larger predators, such as Bears and Sabre Cats!
-- ### If you want to disable Skills of the Wild [Click Me!!!](https://github.com/AlabastTheSane/empyrean-modlist/blob/main/Skills%20of%20the%20Wild.md)
 
 # Warmth & Coverage
  - Skyrim is a cold, unforgiving tundra in most places. In others, its filled with rainstorms. You need to keep yourself both dry, and warm, if you want to survive to fufill your destiny. Different armors will provide different warmth and coverage ratings. You can see those values on the item card in your inventory. 

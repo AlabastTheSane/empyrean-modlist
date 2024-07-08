@@ -1,7 +1,7 @@
 # **READ THIS FIRST**
 
 
-# Getting started with Empyrean
+# Getting started with Empyrean **A MORE COMPREHENSIVE GUIDE CAN BE FOUND HERE [FGModlists](https://www.fgsmodlists.com/empyrean/what-is-empyrean)
 
 This list requires 194GB of storage space, with 58GB of that being downloads
 

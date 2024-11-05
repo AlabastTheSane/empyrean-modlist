@@ -17,7 +17,7 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "image": "https://i.imgur.com/eTg4CfU.png",
       "readme": "https://www.fgsmodlists.com/empyrean/start-here",
